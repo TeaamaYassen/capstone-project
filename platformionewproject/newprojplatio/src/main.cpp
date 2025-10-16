@@ -3,6 +3,10 @@
 #include <ArduinoJson.h>
 #include <HTTPClient.h>
 
+//RGBW pins
+#define 
+
+
 const char* ssid = "***";
 const char* password = "*****";
 
